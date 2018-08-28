@@ -1,0 +1,22 @@
+.container {
+    margin-top: 2%;
+}
+
+img {
+    width: 80%;
+}
+
+.texto {
+    color: white;
+    text-decoration: underline;
+}
+
+a.texto {
+    margin-left: 2%;
+    margin-top: 7%;
+}
+
+.tetxBtn {
+    margin-left: 2%;
+}
+
